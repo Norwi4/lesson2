@@ -1,4 +1,4 @@
-package com.abaev.vpnbro.dao
+package com.abaev.vpnbro.dao.mapper
 
 import com.abaev.vpnbro.model.HumanData
 import org.springframework.jdbc.core.RowMapper

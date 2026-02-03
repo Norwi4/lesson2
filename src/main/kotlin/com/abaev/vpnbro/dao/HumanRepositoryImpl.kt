@@ -1,5 +1,6 @@
 package com.abaev.vpnbro.dao
 
+import com.abaev.vpnbro.dao.mapper.GetHumanMapper
 import com.abaev.vpnbro.model.HumanData
 import org.springframework.jdbc.core.JdbcTemplate
 import org.springframework.stereotype.Repository
